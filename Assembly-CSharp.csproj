@@ -58,14 +58,17 @@
      <Compile Include="Assets\Assets\WaypointPatrol.cs" />
      <Compile Include="Assets\Assets_DevilsWorkShop\Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04\Prefabs\assets_1024x1024\NewBehaviourScript.cs" />
      <Compile Include="Assets\Assets_DevilsWorkShop\Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04\Prefabs\assets_1024x1024\WayPointPatrol.cs" />
+     <Compile Include="Assets\Grid_size.cs" />
      <Compile Include="Assets\IsometricPlayerMovment.cs" />
      <Compile Include="Assets\Mover.cs" />
      <Compile Include="Assets\Root_attack.cs" />
      <Compile Include="Assets\Shoot.cs" />
      <Compile Include="Assets\col.cs" />
      <Compile Include="Assets\coll.cs" />
+     <Compile Include="Assets\playermovement.cs" />
      <Compile Include="Assets\shhot.cs" />
      <Compile Include="Assets\shooty.cs" />
+     <Compile Include="Assets\zie.cs" />
      <None Include="Assets\Assets_DevilsWorkShop\Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04\License.txt" />
      <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
  <Reference Include="UnityEngine">
